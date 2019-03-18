@@ -1,0 +1,15 @@
+C:\Users\username.DESKTOP-9P6JRKO\source\repos\WPF-UI\bin\Debug\WPF-UI.exe.config
+C:\Users\username.DESKTOP-9P6JRKO\source\repos\WPF-UI\bin\Debug\WPF-UI.exe
+C:\Users\username.DESKTOP-9P6JRKO\source\repos\WPF-UI\bin\Debug\WPF-UI.pdb
+C:\Users\username.DESKTOP-9P6JRKO\source\repos\WPF-UI\obj\Debug\WPF-UI.csprojAssemblyReference.cache
+C:\Users\username.DESKTOP-9P6JRKO\source\repos\WPF-UI\obj\Debug\MainWindow.g.cs
+C:\Users\username.DESKTOP-9P6JRKO\source\repos\WPF-UI\obj\Debug\App.g.cs
+C:\Users\username.DESKTOP-9P6JRKO\source\repos\WPF-UI\obj\Debug\WPF-UI_MarkupCompile.cache
+C:\Users\username.DESKTOP-9P6JRKO\source\repos\WPF-UI\obj\Debug\WPF-UI_MarkupCompile.lref
+C:\Users\username.DESKTOP-9P6JRKO\source\repos\WPF-UI\obj\Debug\MainWindow.baml
+C:\Users\username.DESKTOP-9P6JRKO\source\repos\WPF-UI\obj\Debug\WPF-UI.g.resources
+C:\Users\username.DESKTOP-9P6JRKO\source\repos\WPF-UI\obj\Debug\WPF_UI.Properties.Resources.resources
+C:\Users\username.DESKTOP-9P6JRKO\source\repos\WPF-UI\obj\Debug\WPF-UI.csproj.GenerateResource.cache
+C:\Users\username.DESKTOP-9P6JRKO\source\repos\WPF-UI\obj\Debug\WPF-UI.csproj.CoreCompileInputs.cache
+C:\Users\username.DESKTOP-9P6JRKO\source\repos\WPF-UI\obj\Debug\WPF-UI.exe
+C:\Users\username.DESKTOP-9P6JRKO\source\repos\WPF-UI\obj\Debug\WPF-UI.pdb
